@@ -25,8 +25,7 @@ while(first<=last){
     else {
      print("Found it: ${mid}");
      break;
-    }
-   
+    }   
   
   }
  
