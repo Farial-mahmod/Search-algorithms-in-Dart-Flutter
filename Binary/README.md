@@ -1,4 +1,4 @@
-Binary Search's Time & Space Complexity:
+# Binary Search's Time & Space Complexity:
 
 
 Class: Search algorithm
